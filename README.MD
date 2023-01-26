@@ -4,4 +4,4 @@ This implementation is a PR branch from the Dask/Distributed repository, refer t
 
 # Usage
 
-Refer to `MPI4Dask-userguid` in this repo for details.
+Refer to `MPI4Dask-Userguide` in this repo for details.
